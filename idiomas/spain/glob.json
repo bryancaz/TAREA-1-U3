@@ -1,0 +1,15 @@
+{
+    "navbar":{
+        "espanol":"Spanish",
+        "ingles":"English",
+        "inicio":"Home"
+    },
+   
+    "data":{
+        "descripcion":"Lo que más me gusta de mi carrera sin duda es Base de Datos, es mi asignatura favorita, me siento muy cómoda en esa asignatura, y siempre que la tomo saco buenas notas. Espero que cuando termine la carrera pueda encontrar un buen trabajo.",
+        "contador": "Count visit",
+        "contador2": "Visitor counter",
+        "tecnologias": "Technologies I handle: SQL, and NOSQL databases, PHP, JavaScript, HTML"
+
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "navbar":{
+        "espanol":"español",
+        "ingles":"ingles",
+        "inicio":"Inicio"
+    },
+   
+    
+        "data":{
+            "descripcion":"What I like the most of my career without a doubt is Database, it is my favorite subject, I feel very comfortable in that subject, and whenever I take it I always get good grades. I hope that when I finish my career I will be able to find a good job.",
+            "contador": "Count visit",
+            "contador2": "Visitor counter",
+            "tecnologias": "Technologies I handle: SQL, and NOSQL databases, PHP, JavaScript, HTML"
+        }
+    
+    
+}
